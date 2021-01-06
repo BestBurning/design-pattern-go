@@ -112,3 +112,7 @@ fabric.properties
 
 *.iml
 /.idea/
+
+.classpath
+.project
+/.settings/
